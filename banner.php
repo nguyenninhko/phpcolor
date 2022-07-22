@@ -23,3 +23,4 @@ $banner = "\r
 \n"; //banner dạo
 return $banner;
 }
+?>
